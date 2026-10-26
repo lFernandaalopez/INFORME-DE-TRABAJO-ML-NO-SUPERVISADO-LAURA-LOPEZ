@@ -6,6 +6,11 @@ CADI – Introducción a Machine Learning (2026-2) · Docente: Ing. Wilson Rojas
 
 Aplicación de K-Means, clustering jerárquico (Ward), PCA y SVD para descubrir segmentos comerciales en un portafolio de 1.000 inmuebles en arriendo (Chapinero, Suba y Usaquén).
 
+## Link Colab
+
+https://colab.research.google.com/drive/1Rxkdg0VtTRc9LZo1MqXXQFGLzAPu2VuK?usp=sharing
+https://colab.research.google.com/drive/1blIFcZzUzKzDkFaxQG_RcLCVIq26nn7j?usp=sharing
+
 ## Contenido
 
 | Archivo | Descripción |
