@@ -16,13 +16,6 @@ Aplicación de K-Means, clustering jerárquico (Ward), PCA y SVD para descubrir 
 | `inmuebles_segmentados.csv` | Id de cada inmueble con su clúster (k = 2, 3, 4) y segmento final. |
 | `figuras/` | Gráficas generadas por los notebooks. |
 
-## Cómo ejecutar en Google Colab
-
-1. Abra el notebook desde GitHub en Colab: `https://colab.research.google.com/github/USUARIO/ML-NoSupervisado-Inmuebles/blob/main/01_KMeans_Segmentacion_Inmuebles.ipynb`
-2. Ejecute la primera celda; si el Excel no está en el entorno, Colab pedirá subir `DATASET_INmuebles.xlsx`.
-3. *Entorno de ejecución → Ejecutar todas.*
-
-Librerías: pandas, numpy, scikit-learn, scipy, matplotlib, openpyxl (todas preinstaladas en Colab).
 
 ## Resultados principales
 
